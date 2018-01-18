@@ -21,17 +21,21 @@ The era of so called fully autonomous vehicles is approaching rapidly, and with 
 The notion of a Smart City encompasses a variety of definitions and concepts depending on who you talk to and the goal behind the system. For example, a Smart City could mean self-sustaining, ubiquitous, digital, unified, intelligent, etc. For the purpose of this Smart City, I will be referring to a city that is focused on improving daily life of all its inhabitants by making it cleaner and more connected. In particular, with focus on a more efficient, timely, safer, and spatial roadway system for various transportation mechanisms.
 Just imagine, a Smart City where:
 > •	Vehicle accidents barely ever happen. Autonomous vehicles will be able to account for most, if not all, human error related accidents. There will be less accidents for manual drivers due to less drivers on that portion of the road.
+
 •	Traffic is never at a stop. Roadway systems combined with vehicle sensors will allow for less required space and less speed inconsistencies.
+
 •	The need for gas will drop due to lesser individually owned vehicles. A vast majority of vehicles will be electric and more environmentally friendly.
+
 •	There is less pollution due to more environmentally friendly vehicles and roadways.
+
 •	The need for parking spaces and lots will decrease as more people carpool and utilize the autonomous vehicles, leading to more room for other things.
 
 In order to improve the connection between the city and roadways, and thereby improve liveability, traffic flow, safety, and accessibility, additional space will be needed to create roads that are adjacent to one another. This will help accommodate the variety of vehicles, drivers, and passengers.  Fewer traffic lights and systems will be required, leading to a more constant flow of traffic instead of the continual stop-and-go traffic that consume larger cities today. As seen in the image below:
 
->>>>![Image of Roadway](images/Smart roadways.jpg)
+![Image of Roadway](images/Smart roadways.jpg)
 
 To ensure that the roadways and transportation are effective, the following requirements must be met:
-> 1)	There must be a separate lane(s) for each vehicle type: Manual driving vehicles, autonomous vehicles, busses, bikes, and subways.
+1)	There must be a separate lane(s) for each vehicle type: Manual driving vehicles, autonomous vehicles, busses, bikes, and subways.
 2)	Autonomous vehicles must be equipped with environmental and spatial sensors.
 3)	There are designated drop off areas for passengers.
 4)	Parking must be available for individually owned vehicles.
