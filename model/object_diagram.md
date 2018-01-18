@@ -1,6 +1,6 @@
 ## Smart City (My Problem) Model - Object Diagram
 
-This model describes the process behind the Smart Transportation: Roadways for All concept. It is broken down into three main systems, Roadways, Agents, and Vehicles, all which have their own components and variables. The reasoning for breaking it down this way is to better understand each system and how they tie into one another to create a unified system, in this case, the Roadways for All system.
+This model describes a higher level overview of how the system will be developed within the simulation. As previously stated there are three main sections: Roadways, Agents, and Vehicles.
 
 
 ![Object Diagram](../images/Object Diagram.PNG)
