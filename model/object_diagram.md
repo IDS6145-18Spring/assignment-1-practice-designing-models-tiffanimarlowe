@@ -1,13 +1,8 @@
 ## Smart City (My Problem) Model - Object Diagram
 
-(remove: provide a description of the current model you describe below)
+This model describes the process behind the Smart Transportation: Roadways for All concept. It is broken down into three types of agents, Roadways, Agents, and Vehicles, all which have their own components and variables. The reasoning for breaking it down this way is to better understand each system and how they tie into one another to create a unified system, in this case, the Roadways for All system.
 
-(remove: use images!!!)
-(remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
 
-![Example Object Diagram](../images/class_example_diagram.png)
+![Object Diagram](../images/Object Diagram.PNG)
 
-(remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
-
-(remove: each diagram markdown file should roughly follow this template)
+Roadways encompasses two main variables, Lanes and Sensors. Lanes describes the types of varying lanes involved, and further the type of car that will be using those lanes. While Sensors describes the types of sensors that will be used throughout the entire system, spatial, motion, and traffic. These can be located on street lights, cars, etc. Agents entails the types of people that will be using this system, Drivers, Passengers, and Pedestrians. While lastly, Vehicles describes the type of car that will be using the roadways, autonomous or manual. It then further details what type of fuel they’ll run on, electric or gas. This is meant to shed light on the environmentally friendly vehicles and the safety impact they have on the Smart City over time.
