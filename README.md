@@ -41,8 +41,7 @@ By developing this infrastructure within a simulation, I will be able to test th
 
 ## Smart City Transportation: Roadways for All Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+This model describes the process behind the Smart Transportation: Roadways for All concept. It is broken down into three main systems, Roadways, Agents, and Vehicles, all which have their own components and variables. The reasoning for breaking it down this way is to better understand each system and how they tie into one another to create a unified system, in this case, the Roadways for All system.
 
 * [**Object Diagram**](model/object_diagram.md)- provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
