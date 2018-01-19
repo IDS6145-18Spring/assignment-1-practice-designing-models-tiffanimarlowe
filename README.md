@@ -28,7 +28,7 @@ Just imagine, a Smart City where:
 
 In order to improve the connection between the city and roadways, and thereby improve liveability, traffic flow, safety, and accessibility, additional space will be needed to create roads that are adjacent to one another. This will help accommodate the variety of vehicles, drivers, and passengers.  Fewer traffic lights and systems will be required, leading to a more constant flow of traffic instead of the continual stop-and-go traffic that consume larger cities today. As seen in the image below:
 
-![smart_roadways.jpg](.\images\smart_roadways.jpg)
+![smart roadways](.\images\smart_roadways.jpg)
 
 To ensure that the roadways and transportation are effective, the following requirements must be met:
 1)	There must be a separate lane(s) for each vehicle type: Manual driving vehicles, autonomous vehicles, busses, bikes, and subways.
@@ -46,7 +46,7 @@ This model describes the process behind the Smart Transportation: Roadways for A
 * [**Object Diagram**](model/object_diagram.md)- provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+
 
 ## Smart City (My Problem) Simulation
 
