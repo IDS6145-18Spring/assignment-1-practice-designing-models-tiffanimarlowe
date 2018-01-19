@@ -20,17 +20,25 @@ Inputs Variables:
 Outputs Variables:
 * Commute time
 * Road congestion
-* Parking 
-* Traffic 
-* Accidents 
+* Parking
+* Traffic
+* Accidents
 
-To gain insight into this system and its process see images below. 
+To gain insight into this system and its process see images below.
 
-![smart roadway](../images/smart_roadways.jpg)
+![smart roadway](../images/roadways.jpg)
+
 Image 1: Illustrates divided lanes for smoother traffic
 
+Image Source: https://readwrite.com/2017/10/06/smart-data-exchange-smart-city/
+
 ![Car sensors Diagram](../images/cars.jpeg)
-Image 2: Illustrates vehicle with sensors:
+
+Image 2: Illustrates vehicle with sensors.
+
+Image source: https://spectrum.ieee.org/cars-that-think/transportation/efficiency/imagine-new-york-city-with-only-3000-minivans-instead-of-taxis-it-could-work
+
+
 
 With the use of this simulation, I can determine if the Transportation: Roadways for All would be effective and if so, how effective. In addition, I would be able to determine where more work needs to be done to continually improve the system and daily lives of the citizens
 
