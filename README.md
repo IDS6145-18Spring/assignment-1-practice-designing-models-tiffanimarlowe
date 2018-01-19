@@ -48,13 +48,13 @@ This model describes the process behind the Smart Transportation: Roadways for A
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 
 
-## Smart City (My Problem) Simulation
+## Smart City Transportation: Roadways for All Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+For the purpose of this model, I would use a continuous based simulation. This would allow the continual tracking of sensors and vehicles, while also giving real-time feedback.To further understand my simulation process, see: [**(Roadway for All Analysis)**](model/README.md)
 
 
-## Smart City (My Problem) Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+## Smart City Transportation: Roadways for All Model
+[**Code template**](code/README.md)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
