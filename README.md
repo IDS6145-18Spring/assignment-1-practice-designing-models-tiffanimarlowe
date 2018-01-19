@@ -50,7 +50,9 @@ This model describes the process behind the Smart Transportation: Roadways for A
 
 ## Smart City Transportation: Roadways for All Simulation
 
-For the purpose of this model, I would use a continuous based simulation. This would allow the continual tracking of sensors and vehicles, while also giving real-time feedback.To further understand my simulation process, see: [**(Roadway for All Analysis)**](model/README.md)
+For the purpose of this model, I chose to use a continuous based simulation. This would allow the continual tracking of sensors and vehicles, while also giving real-time feedback.To further understand my simulation process, see: 
+
+[**Roadway for All Analysis**](model/README.md)
 
 
 ## Smart City Transportation: Roadways for All Model
