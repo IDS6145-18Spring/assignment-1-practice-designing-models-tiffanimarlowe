@@ -1,4 +1,6 @@
-## Smart City (My Problem) Model
+## Smart City Transportation: Roadways for All Model
 
-(remove:  Starting coding framework for the (insert your exact problem here.)
-(remove: learn to describe your code a bit, link the files and provide a brief explanation what each file is doing for your model and simulation)
+My system has a variety of main componenets that each contines multiple attributes. Therefore, I chose to code for the larger sections within in each component.
+
+
+[transportation.py](../code/Transportation.py)
